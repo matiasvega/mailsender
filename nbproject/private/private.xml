@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Layout/composer.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/webroot/css/sim/newsletter.css</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/webroot/css/sim/newsletter-builder.css</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/webroot/js/newsletter-builder.js</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Campaigns/index.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Layout/dashboard.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Controller/CampaignsController.php</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/View/Helper/GooglechartHelper.php</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Campaigns/add.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Campaigns/statistics.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Shell/ImportShell.php</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Campaigns/compose_message.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Campaigns/template.ctp</file>
+            <file>file:/var/www/html/devel/plopcomunicaciones/mailsender/src/Template/Layout/default.ctp</file>
+        </group>
+    </open-files>
+</project-private>
